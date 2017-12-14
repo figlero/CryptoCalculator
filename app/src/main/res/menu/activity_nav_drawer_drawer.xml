@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_crypto"
+            android:icon="@drawable/ic_action_swap"
+            android:title="Crypto to Crypto" />
+        <item
+            android:id="@+id/nav_fiat"
+            android:icon="@drawable/ic_action_cash"
+            android:title="Crypto to Cash" />
+    </group>
+
+    <item android:title="Social">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_action_share"
+                android:title="Share App" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_action_name3"
+                android:title="Rate App" />
+            <item
+                android:id="@+id/nav_donate"
+                android:icon="@drawable/ic_action_donate"
+                android:title="Donate" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_action_about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

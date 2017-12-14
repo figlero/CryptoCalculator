@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crypto Calculator</string>
+    <string name="title_activity_action_bar">ActionBar</string>
+    <string name="title_activity_nav_drawer">Crypto to Crypto</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fiat">Crypto to Cash</string>
+    <string name="title_activity_about">About</string>
+</resources>
